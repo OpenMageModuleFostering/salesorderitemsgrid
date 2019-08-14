@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/salesorderitemsgrid",
+    "type": "magento-module",
+    "license": "Apache-Software-License-(ASL)",
+    "homepage": "",
+    "description": "New Sales Order items Grid in Sales menu",
+    "authors": [
+    {
+        "name": "Rodolphe Franceschi",
+        "email": "fedorage@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
